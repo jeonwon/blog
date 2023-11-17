@@ -1,2 +1,2 @@
 # blog
-blog by react who I learned in youtube
+blog by react which I learned in youtube
